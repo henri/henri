@@ -3,7 +3,7 @@
 ---
 
 :octocat: Quick links :earth_asia: 
-- :chestnut: [Configure your system with a private browser](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:
+- :chestnut: [Start as many private private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:
 ```bash
 /bin/bash -c "$(curl -fsSL \
 https://gist.githubusercontent.com/henri/\
