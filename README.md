@@ -10,7 +10,7 @@ https://gist.githubusercontent.com/henri/\
 34f5452525ddc3727bb66729114ca8b4/raw/\
 500.spb-install-script.bash)"
 ```
-<sup>( run code snippit above to install SPB )</sup>
+<p align="center"> <sup> ( run code snippit to install SPB / click link for additional project information) </sup> </p>
 
 
 ---
