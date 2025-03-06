@@ -3,7 +3,8 @@
 ---
 
 :octocat: Quick links :earth_asia: 
-- :chestnut: [Start as many private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:
+- :chestnut: [SPB : Start as many private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:<br/>
+<sub>( run code snippit below within a terminal to install )</sub>
 ```bash
 /bin/bash -c "$(curl -fsSL \
 https://gist.githubusercontent.com/henri/\
