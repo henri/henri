@@ -3,14 +3,15 @@
 ---
 
 :octocat: Quick links :earth_asia: 
-- :chestnut: [SPB : Start as many private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:<br/>
-<sub>( run code snippit below within a terminal to install )</sub>
+- :chestnut: [SPB : Start as many private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:
 ```bash
 /bin/bash -c "$(curl -fsSL \
 https://gist.githubusercontent.com/henri/\
 34f5452525ddc3727bb66729114ca8b4/raw/\
 500.spb-install-script.bash)"
-``` 
+```
+<sup>( run code snippit above to install SPB )</sup>
+
 
 ---
 <!---
