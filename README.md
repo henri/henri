@@ -9,8 +9,12 @@
 https://gist.githubusercontent.com/henri/\
 34f5452525ddc3727bb66729114ca8b4/raw/\
 500.spb-install-script.bash)"
+
+# SPB Install script should be run in a BASH shell
+# Supported Operating Systems : MacOS and GNU/Linux
 ```
-<p align="center"> <sup> ( run code snippit to install SPB / click link for project information ) </sup> </p>
+
+<p align="center"> <sup> ( run code snippit to install SPB / click link for project information) </sup> </p>
 
 
 ---
