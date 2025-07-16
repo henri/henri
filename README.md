@@ -3,6 +3,7 @@
 ---
 
 :octocat: Quick links :earth_asia: 
+- :tropical_fish: [Handy CLI Tools](https://gist.github.com/henri/320ed121436c82a1cea0eabaabb1de06)
 - :chestnut: [SPB : Start as many private browsers as you like](https://gist.github.com/henri/34f5452525ddc3727bb66729114ca8b4) :lock:
 ```bash
 /bin/bash -c "$(curl -fsSL \
