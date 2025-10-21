@@ -14,7 +14,7 @@ henri/spb/refs/heads/main/\
 500.spb-install-script.bash)"
 
 # The SPB install command should be run in a BASH shell
-# Supported Operating Systems : MacOS and GNU/Linux
+# Supported Operating Systems : MacOS and GNU/Linux (many distributions)
 # Using fish shell? Handy fish snippits included to improve SPB
 ```
 
