@@ -4,7 +4,7 @@
 
 :octocat: Quick links :earth_asia: 
 - :tropical_fish: [Handy CLI Tools](https://gist.github.com/henri/320ed121436c82a1cea0eabaabb1de06)
-- :chestnut: [SPB : Start as many private browsers as you like](https://github.com/henri/spb/blob/main/README_INDEX.md) :lock:
+- :chestnut: [SPB : Start Private Browsers](https://github.com/henri/spb/blob/main/README_INDEX.md) :lock:
 
 
 ---
